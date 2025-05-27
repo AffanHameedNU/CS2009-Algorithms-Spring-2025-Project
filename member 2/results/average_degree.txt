@@ -1,0 +1,1 @@
+Average Degree of the Graph: 3.18069
